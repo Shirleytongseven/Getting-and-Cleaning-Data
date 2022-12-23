@@ -1,0 +1,1 @@
+Just run the run_analysis.R
